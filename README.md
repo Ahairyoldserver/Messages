@@ -8,7 +8,7 @@ Currently supported languages:
 - English
 
 ## Colors
-You can use the following color codes. Please make sure, that you use a **§** instead of a **&** sign. <br>
+You can use the following color codes. Please make sure, that you are using a **§** sign instead of a **&** sign. <br>
 ![Spigot ChatColors](https://www.spigotmc.org/attachments/example2-png.188806/)
 
 ## Replacement
