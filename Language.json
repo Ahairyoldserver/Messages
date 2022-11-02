@@ -1,0 +1,798 @@
+{
+  "blocked_message": {
+    "eng": "Your message was not send becouse of a blocked word!",
+    "ger": "Die Nachricht wurde nicht gesendet da ein blockiertes Wort enhalten ist!"
+  },
+  "chat_disabled_writing_not_allowed": {
+    "eng": "§cEnable your chat to send messages!",
+    "ger": "§cAktiviere deinen Chat um Nachrichten zu versenden!"
+  },
+  "DPM": {
+    "eng": "§cThis player has disabled private messaging.",
+    "ger": "§cDieser Spieler hat private Nachrichten deaktiviert."
+  },
+  "flying_disabled": {
+    "eng": "Flight mode has been deactivated.",
+    "ger": "Der flugmodus wurde deaktiviert."
+  },
+  "flying_enabled": {
+    "eng": "Flight mode has been activated.",
+    "ger": "Der flugmodus wurde aktiviert."
+  },
+  "gamemode_changed_to": {
+    "eng": "Your gamemode has been changed to %gamemode%.",
+    "ger": "Dein Spielmodus wurde auf %gamemode% geändert."
+  },
+  "gamemode_changed_to_by": {
+    "eng": "Your gamemode has been changed to %gamemode% by %name%.",
+    "ger": "Dein Spielmodus wurde von %name% auf %gamemode% geändert."
+  },
+  "gamemode_does_not_exist": {
+    "eng": "The gamemode %gamemode% does not exist!",
+    "ger": "Der Spielmodus %gamemode% existiert nicht!"
+  },
+  "home_created": {
+    "eng": "Your home %name% was successfully created!",
+    "ger": "Dein Zuhause %name% wurde erfolgreich erstellt!"
+  },
+  "home_deleted": {
+    "eng": "Your home %name% was successfully deleted!",
+    "ger": "Dein Zuhause %name% wurde erfolgreich gelöscht!"
+  },
+  "home_limit_reached": {
+    "eng": "You have already placed the maximum amount of homes!",
+    "ger": "Du hast die maximale anzahl an homes bereits gesetzt!"
+  },
+  "home_list": {
+    "eng": "Your homes:",
+    "ger": "Deine homes:"
+  },
+  "home_not_available": {
+    "eng": "You have not placed a home yet!",
+    "ger": "Du hast noch kein Zuhause platziert!"
+  },
+  "illegal_name": {
+    "eng": "The name containes illegal characters!",
+    "ger": "Der von dir gewählte Namen enthält unerlaubte Zeichen!"
+  },
+  "invalid_number": {
+    "eng": "The specified value is invalid!",
+    "ger": "Der angegeben Wert ist unültig!"
+  },
+  "inventory_title_settings": {
+    "eng": "§d§lSettings",
+    "ger": "§d§lEinstellungen"
+  },
+  "inventory_title_settings_chat": {
+    "eng": "§d§lChat - settings",
+    "ger": "§d§lChat - Einstellungen"
+  },
+  "inventory_title_settings_language": {
+    "eng": "§d§lLanguage - settings",
+    "ger": "§d§lSprach - Einstellungen"
+  },
+  "item_lore_settings_chat_visibility": {
+    "eng": "§7Does the chat annoy you?\n§7Then just deactivate it.",
+    "ger": "§7Nervt dich der Chat?\n§7Deaktiviere ihn einfach."
+  },
+  "item_lore_settings_chat_filter": {
+    "eng": "§7Do swear words in chat bother you?\n§7Simply hide offensive messages.",
+    "ger": "§7Stören dich Schimpfworte im Chat?\n§7Blende anstößige Nachrichten einfach aus."
+  },
+  "item_lore_settings_chat_msg": {
+    "eng": "§7Do you want to have your peace?\n§7Just disable private messages.",
+    "ger": "§7Möchtest du deine Ruhe haben?\n§7Deaktiviere einfach private Nachrichten."
+  },
+  "item_lore_settings_language": {
+    "eng": "§7Chose your language\n\n§7available languages\n§e§l   • §eDeutsch\n§e§l   • §eEnglish",
+    "ger": "§7Wähle deine Sprache\n\n§7Verfügbare Sprachen\n§e§l   • §eDeutsch\n§e§l   • §eEnglish"
+  },
+  "item_title_activate": {
+    "eng": "§aenable",
+    "ger": "§aAktivieren"
+  },
+  "item_title_deactivate": {
+    "eng": "§cdisable",
+    "ger": "§cDeaktivieren"
+  },
+  "item_title_settings": {
+    "eng": "§d§lSettings",
+    "ger": "§d§lEinstellungen"
+  },
+  "item_title_settings_chat": {
+    "eng": "§d§lChat - settings",
+    "ger": "§d§lChat - Einstellungen"
+  },
+  "item_title_settings_language": {
+    "eng": "§d§lLanguage - settings",
+    "ger": "§d§lSprach - Einstellungen"
+  },
+  "item_title_settings_chat_visibility": {
+    "eng": "§e§l• §eChat - visibility",
+    "ger": "§e§l• §eChat - Sichtbarkeit"
+  },
+  "item_title_settings_chat_filter": {
+    "eng": "§e§l• §eChat - filter",
+    "ger": "§e§l• §eChat - Filter"
+  },
+  "item_title_settings_chat_msg": {
+    "eng": "§e§l• §eChat - private messages",
+    "ger": "§e§l• §eChat - privat Nachrichten"
+  },
+  "kick_player": {
+    "eng": "You have kicked %name% from the server!",
+    "ger": "Du hast den Spieler %name% vom Server geworfen!"
+  },
+  "kicked_all_players": {
+    "eng": "Kicked all players from the server!",
+    "ger": "Du hast alle Spieler vom Server gekickt!"
+  },
+  "location_dont_exist": {
+    "eng": "The specified location doesnt exist!",
+    "ger": "Der Standort %name% existiert nicht!"
+  },
+  "money_display": {
+    "eng": "You have %amount%G!",
+    "ger": "Du hast aktuell %amount%G!"
+  },
+  "money_display_other": {
+    "eng": "%name% has %amount%G!",
+    "ger": "%name% hat aktuell %amount%G!"
+  },
+  "money_payed": {
+    "eng": "You gave %name% %amount%G!",
+    "ger": "Du hast %name% %amount%G gegeben!"
+  },
+  "money_received": {
+    "eng": "You have received %amount%G!",
+    "ger": "Du hast %amount%G erhalten!"
+  },
+  "money_received_player": {
+    "eng": "You have received %amount%G from %name%!",
+    "ger": "Du hast %amount%G von %name% erhalten!"
+  },
+  "msg_self": {
+    "eng": "§cYou can't send msg to yourself.",
+    "ger": "§cDu kannst keine msg an dich selbst versenden."
+  },
+  "money_top_list": {
+    "eng": "This is the Top List of Player Currency:",
+    "ger": "Das ist die Top-Liste der Spielerwährung:"
+  },
+  "not_allowed": {
+    "eng": "Not allowed!",
+    "ger": "Nicht erlaubt!"
+  },
+  "not_enough_arguments": {
+    "eng": "Not enough arguments used!",
+    "ger": "Zu wenig Argumente angegeben!"
+  },
+  "not_enough_money": {
+    "eng": "You don't have enough to send %amount%G!",
+    "ger": "Du hast nicht genug um %amount%G zu senden!"
+  },
+  "not_enough_permissions": {
+    "eng": "Not enough permissions",
+    "ger": "Nicht genug Rechte"
+  },
+  "npc_created": {
+    "eng": "The %name% NPC was created",
+    "ger": "Der NPC %name% wurde erstellt."
+  },
+  "npc_removed": {
+    "eng": "The %name% NPC was removed",
+    "ger": "Der NPC %name% wurde gelöscht."
+  },
+  "player_not_found": {
+    "eng": "This specified player is not online!",
+    "ger": "Der angegebene Spieler ist nicht online!"
+  },
+  "player_equal_target": {
+    "eng": "§cYou cannot use this command by yourself!",
+    "ger": "§cDu kannst dies nicht bei dir selber machen!"
+  },
+  "player_only_command": {
+    "eng": "This command can only be used by players!",
+    "ger": "Dieser Befehl ist nur für Spieler ausführbar!"
+  },
+  "spawn_created": {
+    "eng": "Your home was successfully created!",
+    "ger": "The spawn was successfully set!"
+  },
+  "settings_updated": {
+    "eng": "§aSettings updated",
+    "ger": "§aEinstellungen aktualisiert"
+  },
+  "spam_protection": {
+    "eng": "§cPlease wait a moment before sending another message.",
+    "ger": "§cBitte warte noch einen Moment, bevor du eine weitere Nachricht sendest."
+  },
+  "teleport_abort": {
+    "eng": "Your teleportation was cancelled!",
+    "ger": "Deine Teleportation wurde abgebrochen!"
+  },
+  "teleport_already_active": {
+    "eng": "Your are already teleporting!",
+    "ger": "Du teleportierst dich bereits!"
+  },
+  "teleport_delay": {
+    "eng": "You will be teleported in 3 seconds, don't move!",
+    "ger": "Du wirst in 3 Sekunden teleportiert, bewege dich nicht!"
+  },
+  "to_many_arguments": {
+    "eng": "To many arguments!",
+    "ger": "Zu viele Argumente!"
+  },
+  "warp_created": {
+    "eng": "The warp %name% was set successfully!",
+    "ger": "Der Warp %name% wurde erfolgreich gesetzt!"
+  },
+  "warp_deleted": {
+    "eng": "The warp %name% was successfully deleted!",
+    "ger": "Der Warp %name% wurde erfolgreich gelöscht!"
+  },
+  "warp_list": {
+    "eng": "Warplist:",
+    "ger": "Warpliste:"
+  },
+  "warps_not_available": {
+    "eng": "There are currently no warps available!",
+    "ger": "Es sind momentan keine warps verfügbar!"
+  },
+  "word_already_exists": {
+    "eng": "This word is already Blocked!",
+    "ger": "Diese wort ist bereits Blockiert!"
+  },
+  "word_not_found": {
+    "eng": "The specified word is not blocked!!",
+    "ger": "Das angegebene wort ist nicht Blockiert!"
+  },
+  "wrong_arguments": {
+    "eng": "Wrong arguments used!",
+    "ger": "Falsche Argumente angegeben!"
+  },
+  "hide_players": {
+    "eng": "§eHide players",
+    "ger": "§eSpieler verstecken"
+  },
+  "show_all_players": {
+    "eng": "§8● §aShow all players §8●",
+    "ger": "§8● §aAlle Spieler anzeigen §8●"
+  },
+  "show_no_players": {
+    "eng": "§8● §cShow no players §8●",
+    "ger": "§8● §cKeine Spieler anzeigen §8●"
+  },
+  "show_yt_and_team_players": {
+    "eng": "§8● §7Show only §5YouTuber §7and §cTeam member §8●",
+    "ger": "§8● §7Nur §5YouTuber §7und §cTeammitglieder §7anzeigen §8●"
+  },
+  "set_show_all_players": {
+    "eng": "§aYou can now see all players.",
+    "ger": "§aDu siehst nun wieder alle Spieler."
+  },
+  "set_show_no_players": {
+    "eng": "§cYou have now hidden all players.",
+    "ger": "§cDu hast nun alle Spieler versteckt."
+  },
+  "set_show_yt_and_team_players": {
+    "eng": "§7You will now only see §5YouTubers §7and §cteam members§7.",
+    "ger": "§7Du siehst nun nur alle §5YouTuber §7und §cTeammitglieder§7."
+  },
+  "navigator": {
+    "eng": "§aNavigator",
+    "ger": "§aNavigator"
+  },
+  "settings": {
+    "eng": "§dSettings",
+    "ger": "§dEinstellungen"
+  },
+  "build_entered": {
+    "eng": "§aYou are now in the building mode.",
+    "ger": "§aDu bist nun im Baumodus."
+  },
+  "build_left": {
+    "eng": "§cYou have left the building mode.",
+    "ger": "§cDu hast den Baumodus verlassen."
+  },
+  "rank": {
+    "eng": "§5§lRank§7:",
+    "ger": "§5§lRang§7:"
+  },
+  "playtime": {
+    "eng": "§5§lPlaytime§7:",
+    "ger": "§5§lSpielzeit§7:"
+  },
+  "server": {
+    "eng": "§5§lServer§7:",
+    "ger": "§5§lServer§7:"
+  },
+  "date": {
+    "eng": "§5Date:",
+    "ger": "§5Datum:"
+  },
+  "time": {
+    "eng": "§5Time:",
+    "ger": "§5Uhrzeit:"
+  },
+  "support": {
+    "eng": "§aYou can find our ticket system ",
+    "ger": "§aUnser Ticketsystem findest du "
+  },
+  "actionbar_broadcast_1": {
+    "eng": "§5Twitch: §dimahairyoldman",
+    "ger": "§5Twitch: §dimahairyoldman"
+  },
+  "actionbar_broadcast_2": {
+    "eng": "§aUse §6/help§a for more information!",
+    "ger": "§aBenutze §6/hilfe§a für mehr Infos!"
+  },
+  "actionbar_broadcast_3": {
+    "eng": "§aJoin our Discord",
+    "ger": "§aKomme auf unseren Discord"
+  },
+  "command_description_chatblacklist": {
+    "eng": "Add or remove words from the blacklist.",
+    "ger": "Füge oder Entferne Wörtern von der Blacklist."
+  },
+  "command_description_createnpc": {
+    "eng": "Create an NPC on your position.",
+    "ger": "Erstelle einen NPC an deiner Position."
+  },
+  "command_description_removenpc": {
+    "eng": "Remove an NPC.",
+    "ger": "Entferne einen NPC."
+  },
+  "command_description_spawn": {
+    "eng": "Teleports you after an delay of 3 seconds to the spawn.",
+    "ger": "Teleportiere dich nach einer verzögerung von 3 Sekunden zum Spawn."
+  },
+  "command_description_setspawn": {
+    "eng": "Set the spawn to your position.",
+    "ger": "Setze den Spawn auf deine Position."
+  },
+  "command_description_warp": {
+    "eng": "Teleport to a warp point.",
+    "ger": "Teleportier dich zu einem Warp Punkt."
+  },
+  "command_description_setwarp": {
+    "eng": "Create a warp point on your position.",
+    "ger": "Erstellen Sie einen Warp Punkt an ihrer Position."
+  },
+  "command_description_delwarp": {
+    "eng": "Delete a warp point.",
+    "ger": "Lösche einen Warp punkt."
+  },
+  "command_description_home": {
+    "eng": "Teleport you to a home point you have created.",
+    "ger": "Teleportiere dich zu einem von dir erstellten home punkt."
+  },
+  "command_description_sethome": {
+    "eng": "Create a home point where you can teleport at a later time.",
+    "ger": "Erstelle einen home Punkt wo du dich zu einem späteren Zeitpunkt teleportieren kannst."
+  },
+  "command_description_delhome": {
+    "eng": "Delete a home point you have created.",
+    "ger": "Lösche einen von dir erstellten home point."
+  },
+  "command_description_gamemode": {
+    "eng": "Put yourself in another gamemode.",
+    "ger": "Setze dich in einen anderen Gamemode."
+  },
+  "command_description_fly": {
+    "eng": "Enable or disable Fly.",
+    "ger": "Aktiviere oder Deaktiviere Fly."
+  },
+  "command_description_speed": {
+    "eng": "Change your speed.",
+    "ger": "Verändere deine Geschwindigkeit."
+  },
+  "command_description_money": {
+    "eng": "You will be shown how much money you have at the moment.",
+    "ger": "Dir wird angezeit wie viel Geld du momentan hast."
+  },
+  "command_description_pay": {
+    "eng": "Give another player money.",
+    "ger": "Gib einem anderen Spieler Geld."
+  },
+  "command_description_kick": {
+    "eng": "Throw a player from the server.",
+    "ger": "Wirf einen Spieler vom Server."
+  },
+  "command_description_kickall": {
+    "eng": "Throw all players from the server.",
+    "ger": "Wirf alle Spieler vom Server."
+  },
+  "command_description_settings": {
+    "eng": "Displays all settings.",
+    "ger": "Zeigt alle einstellungen an."
+  },
+  "command_description_setrank": {
+    "eng": "Set a rank for a specific player in the tablist, chat and scoreboard.",
+    "ger": "Setze einen rang für einen bestimmten Spieler ind der Tablist, den Chat und dem Scoreboard."
+  },
+  "command_description_msg": {
+    "eng": "Send a private message to another player.",
+    "ger": "Schicke eine Private Nachricht an einen anderen Spieler."
+  },
+  "command_gdpr": {
+    "eng": "§aYou can find our GDPR ",
+    "ger": "§aUnsere DSGVO findest du "
+  },
+  "here": {
+    "eng": "here",
+    "ger": "hier"
+  },
+  "help_book_1": {
+    "eng": "Welcome on",
+    "ger": "Herzlich Willkommen auf"
+  },
+  "help_book_2": {
+    "eng": "Currently we offer you the following game mods:",
+    "ger": "Derzeit bieten wir euch folgende Spielmodies an:"
+  },
+  "help_book_3": {
+    "eng": "For further information, please take a look at our ",
+    "ger": "Für weiter Informationen schaut doch gerne auf unserem "
+  },
+  "help_book_4": {
+    "eng": " server.",
+    "ger": " Server vorbei."
+  },
+  "FLAG_interact": {
+    "eng": "§eInteract",
+    "ger": "§eInteraktion"
+  },
+  "FLAG_break": {
+    "eng": "§eBlock break",
+    "ger": "§eBlöcke zerstören"
+  },
+  "FLAG_place": {
+    "eng": "§eBlock place",
+    "ger": "§eBlöcke platzieren"
+  },
+  "FLAG_inventory": {
+    "eng": "§e...",
+    "ger": "§e..."
+  },
+  "FLAG_pickup": {
+    "eng": "§eItem pickup",
+    "ger": "§eItems aufheben"
+  },
+  "FLAG_drop": {
+    "eng": "§eDrop items",
+    "ger": "§eItems werfen"
+  },
+  "FLAG_potion": {
+    "eng": "§eThrow potions",
+    "ger": "§ePotions werfen"
+  },
+  "FLAG_damage_player": {
+    "eng": "§ePvP",
+    "ger": "§ePvP"
+  },
+  "FLAG_damage_entity": {
+    "eng": "§ePvE",
+    "ger": "§ePvE"
+  },
+  "plot_command": {
+    "eng": "§aPlot commands:",
+    "ger": "§aPlot Befehle:"
+  },
+  "plot_list": {
+    "eng": "§d§lPlot-List",
+    "ger": "§d§lPlot-Liste"
+  },
+  "plot_not_exists": {
+    "eng": "§cThis plot does not exists!",
+    "ger": "§cDieses Plot existiert nicht!"
+  },
+  "plot_player_already_trusted": {
+    "eng": "§cThis player is already trusted.",
+    "ger": "§cDiesem Spieler wird bereits vertraut!"
+  },
+  "plot_info": {
+    "eng": "§d§lPlot-Info",
+    "ger": "§d§lPlot-Info"
+  },
+  "plot_name": {
+    "eng": "§7Name: §e",
+    "ger": "§7Name: §e"
+  },
+  "plot_owner": {
+    "eng": "§7Owner: §e",
+    "ger": "§7Besitzer: §e"
+  },
+  "plot_flags": {
+    "eng": "§7Flags: ",
+    "ger": "§7Flaggen: "
+  },
+  "plot_trusted": {
+    "eng": "§7Trusted: §e",
+    "ger": "§7Vertraut: §e"
+  },
+  "plot_trust_player": {
+    "eng": "§aYou have added §e%player% §aas trusted.",
+    "ger": "§aDu hast §e%player% §aals vertrauten hinzugefügt!"
+  },
+  "plot_player_not_trusted": {
+    "eng": "§cThis player is not trusted!",
+    "ger": "§cDieser Spieler ist nicht vertraut!"
+  },
+  "plot_untrust_player": {
+    "eng": "§aYou have removed §e%player% §aas trusted.",
+    "ger": "§aDu hast §e%player% §aals vertrauten entfernt!"
+  },
+  "plot_deleted": {
+    "eng": "§aYou have delete the land §e%name%§a!",
+    "ger": "§aDu hast das Land §e%name% §agelöscht!"
+  },
+  "plot_limit": {
+    "eng": "§cPlots can have a maximum of 100x100 blocks!",
+    "ger": "§cPlots dürfen maximal 100x100 Blöcke groß sein!"
+  },
+  "plot_overlaps": {
+    "eng": "§cThis plot overlaps with another plot!",
+    "ger": "§cDieser Plot überschneidet sich mit einem anderen Plot!"
+  },
+  "plot_created": {
+    "eng": "§aPlot successfully claimed!",
+    "ger": "§aPlot erfolgreich erstellt!"
+  },
+  "plot_remove_flag_pvp_failed": {
+    "eng": "§cThis country does not have the flag §ePVP§c!",
+    "ger": "§cDieses Land hat nicht die Flag §ePVP§c!"
+  },
+  "plot_remove_flag_pvp": {
+    "eng": "§aYou have removed the flag §ePVP §avom the country §e%name% §a!",
+    "ger": "§aDu hast die Flag §ePVP §avom Land §e%name% §aentfernt!"
+  },
+  "plot_remove_flag_pve_failed": {
+    "eng": "§cThis country does not have the flag §eMOBDAMAGE§c!",
+    "ger": "§cDieses Land hat nicht die Flag §eMOBDAMAGE§c!"
+  },
+  "plot_remove_flag_pve": {
+    "eng": "§aYou have removed the flag §eMOBDAMAGE §from the country §e%name% §a!",
+    "ger": "§aDu hast die Flag §eMOBDAMAGE §avom Land §e%name% §aentfernt!"
+  },
+  "plot_remove_flag_break_failed": {
+    "eng": "§cThis country does not have the flag §eBREAK§c!",
+    "ger": "§cDieses Land hat nicht die Flag §eBREAK§c!"
+  },
+  "plot_remove_flag_break": {
+    "eng": "§aYou have removed the flag §eBREAK §from the country §e%name% §a!",
+    "ger": "§aDu hast die Flag §eBREAK §avom Land §e%name% §aentfernt!"
+  },
+  "plot_remove_flag_place_failed": {
+    "eng": "§cThis country does not have the flag §ePLACE§c!",
+    "ger": "§cDieses Land hat nicht die Flag §ePLACE§c!"
+  },
+  "plot_remove_flag_place": {
+    "eng": "§cThis country does not have the flag §ePLACE§c!",
+    "ger": "§aDu hast die Flag §ePLACE §avom Land §e%name% §aentfernt!"
+  },
+  "plot_remove_flag_interact_failed": {
+    "eng": "§cThis country does not have the flag §eINTERACT§c!",
+    "ger": "§cDieses Land hat nicht die Flag §eINTERACT§c!"
+  },
+  "plot_remove_flag_interact": {
+    "eng": "§aYou have removed the flag §eINTERACT §from the country §e%name% §a!",
+    "ger": "§aDu hast die Flag §eINTERACT §avom Land §e%name% §aentfernt!"
+  },
+  "plot_remove_flag_drop_failed": {
+    "eng": "§cThis country does not have the flag §eDROP§c!",
+    "ger": "§cDieses Land hat nicht die Flag §eDROP§c!"
+  },
+  "plot_remove_flag_drop": {
+    "eng": "§aYou have removed the flag §eDROP §from the country §e%name% §a!",
+    "ger": "§aDu hast die Flag §eDROP §avom Land §e%name% §aentfernt!"
+  },
+  "plot_remove_flag_pickup_failed": {
+    "eng": "§cThis country does not have the flag §ePICKUP§c!",
+    "ger": "§cDieses Land hat nicht die Flag §ePICKUP§c!"
+  },
+  "plot_remove_flag_pickup": {
+    "eng": "§aYou have removed the flag §ePICKUP §from the country §e%name% §a!",
+    "ger": "§aDu hast die Flag §ePICKUP §avom Land §e%name% §aentfernt!"
+  },
+  "plot_remove_flag_potion_failed": {
+    "eng": "§cThis country does not have the flag §ePOTION§c!",
+    "ger": "§cDieses Land hat nicht die Flag §ePOTION§c!"
+  },
+  "plot_remove_flag_potion": {
+    "eng": "§aYou have removed the flag §ePOTION §from the country §e%name% §a!",
+    "ger": "§aDu hast die Flag §ePOTION §avom Land §e%name% §aentfernt!"
+  },
+  "plot_flag_failed": {
+    "eng": "§cThis flag does not exist!",
+    "ger": "§cDiese Flag existiert nicht!"
+  },
+  "plot_pvp_flag_already_set": {
+    "eng": "§cThis country already has the flag §ePVP§c!",
+    "ger": "§cDieses Land hat bereits die Flag §ePVP§c!"
+  },
+  "plot_pvp_flag_set": {
+    "eng": "§aYou have added the flag §ePVP §to the country §e%name% §ahin addition!",
+    "ger": "§aDu hast den Flag §ePVP §azum Land §e%name% §ahinzugefügt!"
+  },
+  "plot_pve_flag_already_set": {
+    "eng": "§cThis country already has the flag §eMOBDAMAGE§c!",
+    "ger": "§cDieses Land hat bereits die Flag §eMOBDAMAGE§c!"
+  },
+  "plot_pve_flag_set": {
+    "eng": "§aYou have added the flag §eMOBDAMAGE §to the country §e%name% §a!",
+    "ger": "§aDu hast den Flag §eMOBDAMAGE §azum Land §e%name% §ahinzugefügt!"
+  },
+  "plot_break_flag_already_set": {
+    "eng": "§cThis country already has the flag §eBREAK§c!",
+    "ger": "§cDieses Land hat bereits die Flag §eBREAK§c!"
+  },
+  "plot_break_flag_set": {
+    "eng": "§aYou have added the flag §eBREAK §to the country §e%name% §ahin addition!",
+    "ger": "§aDu hast den Flag §eBREAK §azum Land §e%name% §ahinzugefügt!"
+  },
+  "plot_place_flag_already_set": {
+    "eng": "§cThis country already has the flag §ePLACE§c!",
+    "ger": "§cDieses Land hat bereits die Flag §ePLACE§c!"
+  },
+  "plot_place_flag_set": {
+    "eng": "§aYou have added the flag §ePLACE §to the country §e%name% §ahin addition!",
+    "ger": "§aDu hast den Flag §ePLACE §azum Land §e%name% §ahinzugefügt!"
+  },
+  "plot_interact_flag_already_set": {
+    "eng": "§cThis country already has the flag §eINTERACT§c!",
+    "ger": "§cDieses Land hat bereits die Flag §eINTERACT§c!"
+  },
+  "plot_interact_flag_set": {
+    "eng": "§aYou have added the flag §eINTERACT §to the country §e%name% §ahin addition!",
+    "ger": "§aDu hast den Flag §eINTERACT §azum Land §e%name% §ahinzugefügt!"
+  },
+  "plot_drop_flag_already_set": {
+    "eng": "§cThis flag does not exist!",
+    "ger": "§cDieses Land hat bereits die Flag §eDROP§c!"
+  },
+  "plot_drop_flag_set": {
+    "eng": "§aYou have added the flag §eDROP §azum country §e%name% §ahin addition!",
+    "ger": "§aDu hast den Flag §eDROP §azum Land §e%name% §ahinzugefügt!"
+  },
+  "plot_pickup_flag_already_set": {
+    "eng": "§cThis country already has the flag §ePICKUP§c!",
+    "ger": "§cDieses Land hat bereits die Flag §ePICKUP§c!"
+  },
+  "plot_pickup_flag_set": {
+    "eng": "§aYou have added the flag §ePICKUP §to the country §e%name% §ahin addition!",
+    "ger": "§aDu hast den Flag §ePICKUP §azum Land §e%name% §ahinzugefügt!"
+  },
+  "plot_spawn_created": {
+    "eng": "§aYou have marked your land spawn.",
+    "ger": "§aDu hast deinen Land-Spawn gesetzt."
+  },
+  "plot_spawn_removed": {
+    "eng": "§aYou have removed your land spawn.",
+    "ger": "§aDu hast deinen Land-Spawn entfernt."
+  },
+  "plot_no_spawn": {
+    "eng": "§cThis land has no spawn.",
+    "ger": "§cDieses Land hat keinen Spawn."
+  },
+  "plot_needed": {
+    "eng": "§cFor this purpose, this land needs a spawn.",
+    "ger": "§cDafür benötigt dieses Land einen Spawn."
+  },
+  "plot_visible": {
+    "eng": "§aOther players can now teleport to your land.",
+    "ger": "§aEs können sich nun andere Spieler zu deinem Land teleportieren."
+  },
+  "plot_not_visible": {
+    "eng": "§aOther players can no longer teleport to your land.",
+    "ger": "§aEs können sich nun keine Spieler mehr zu deinem Land teleportieren."
+  },
+  "plot_teleported_own": {
+    "eng": "§aYou teleported to your land.",
+    "ger": "§aDu hast dich zu deinem Land teleportiert."
+  },
+  "plot_player_outside": {
+    "eng": "§cPlease step into your land.",
+    "ger": "§cBitte stelle dich in dein Land."
+  },
+  "plot_player_has_no_plots": {
+    "eng": "§cThis player has no land!",
+    "ger": "§cDieser Spieler hat kein Land!"
+  },
+  "plot_invalid_number": {
+    "eng": "§cNo land was found.",
+    "ger": "§cEs wurde kein Land gefunden."
+  },
+  "plot_not_public": {
+    "eng": "§cThis land is not public.",
+    "ger": "§cDieses Land ist nicht öffentlich."
+  },
+  "plot_teleported": {
+    "eng": "§aYou have teleported to the land of §6%player%§a.",
+    "ger": "§aDu hast dich zu dem Land von §6%player% §ateleportiert."
+  },
+  "plot_entered_message": {
+    "eng": "§cEntered Plot from:",
+    "ger": "§cPlot betreten von:"
+  },
+  "claim_name_missing": {
+    "eng": "§cPlease add a name!",
+    "ger": "§cBitte gebe einen Namen an!"
+  },
+  "claim_wrong_world": {
+    "eng": "§cPlease select your land in the over world.",
+    "ger": "§cBitte markiere dein Land in der Oberwelt!"
+  },
+  "claim_name_invalid": {
+    "eng": "§cPlease use only letters and numbers and no keywords!",
+    "ger": "§cBitte benutze nur Buchstaben und Zahlen sowie keine Schlüsselwörter!"
+  },
+  "claim_use_claim_tool": {
+    "eng": "§cPlease use §6/claimtool §cbefore using this command!",
+    "ger": "§cBitte benutze §6/claimtool §cbevor du diesen Befehl verwendest!"
+  },
+  "claim_point": {
+    "eng": "§a[Point %number%] §7Set to: ",
+    "ger": "§a[Punkt %number%] §7Gesetzt zu: "
+  },
+  "back_command": {
+    "eng": "§aYou can teleport to your last position with §6/back§a.",
+    "ger": "§aDu kannst dich mit §6/back §azu deiner letzten Position teleportieren."
+  },
+  "back_command_usage": {
+    "eng": "§cPlease use: §6/back",
+    "ger": "§cBitte benutze: §6/back"
+  },
+  "back_command_already_used": {
+    "eng": "§cYou can execute this command only once after joining the server.",
+    "ger": "§cDu kannst diesen Befehl nur einmal nach dem betreten des Servers ausführen."
+  },
+  "back_command_teleported": {
+    "eng": "§aYou have teleported back to your logged out position.",
+    "ger": "§aDu hast dich zu deiner ausgeloggten Position zurück teleportiert."
+  },
+  "command_usage": {
+    "eng": "§cPlease use: §6",
+    "ger": "§cBitte benutze: §6"
+  },
+  "rtp_command_amount": {
+    "eng": "§cYou can use this command only once a day.",
+    "ger": "§cDu kannst diesen Befehl nur einmal am Tag benutzen!"
+  },
+  "rtp_command_world": {
+    "eng": "§cYou can use this command only in the overworld!",
+    "ger": "§cDu kannst diesen Befehl nur in der Overworld ausführen!"
+  },
+  "rtp_command_used": {
+    "eng": "§aYou have teleported to a random point.",
+    "ger": "§aDu hast dich zu einem zufälligen Punkt teleportiert."
+  },
+  "warning_end_dragon": {
+    "eng": "§4Be careful, this is not a normal final battle, arm yourself well and bring many comrades-in-arms.",
+    "ger": "§4Vorsicht, dies ist kein normaler Endkampf, bewaffne dich gut und bring viele Mitstreiter mit."
+  },
+  "plot_max_count": {
+    "eng": "§cYou have already reached the maximum number of plots.",
+    "ger": "§cDu hast die maximale Anzahl and Grundstücken bereits erreicht."
+  },
+  "player_no_death": {
+    "eng": "§cThis player has not died in the last 5 hours.",
+    "ger": "§cDieser Spieler ist in den letzten 5 Stunden nicht gestorben."
+  },
+  "player_death_restored": {
+    "eng": "§aYou have restored the item for §6%player%§a.",
+    "ger": "§aDu hast dem Spieler §6%player% §aseine Items wieder hergestellt."
+  },
+  "player_death_entry_deleted": {
+    "eng": "§aYou have deleted the §6%index%. §adeath of §6%player%§a.",
+    "ger": "§aDu hast den §6%index%. §aTod von §6%player% §agelöscht."
+  },
+  "player_deaths_deleted": {
+    "eng": "§cYou have deleted all deaths of §6%player%§c.",
+    "ger": "§cDu hast alle Tode von §6%player% §cgelöscht."
+  },
+  "player_death_invalid_entry": {
+    "eng": "§cThis index does not exist.",
+    "ger": "§cDieser Index existiert nicht."
+  }
+}
