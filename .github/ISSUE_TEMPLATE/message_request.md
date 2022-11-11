@@ -11,6 +11,5 @@ assignees: ''
 | Plugin  | Key | Description | Placeholders |
 | ------- | --- | ----------- | ------------ |
 |  |  |  | 1. |
-|  |  |  | 1. |
 
 The placeholders must be present in the exact same order in the English translation. Naming can be customized.
