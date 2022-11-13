@@ -1,0 +1,10 @@
+plugins:
+  - 'Bungee'
+  - 'Core'
+  - 'Freebuild'
+  - 'Lobby'
+  - 'SkyBlock'
+
+languages:
+  - 'en_US'
+  - 'de_DE'
