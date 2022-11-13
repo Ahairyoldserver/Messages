@@ -1,4 +1,4 @@
-# Messages
+# Messages [![Validate Messages](https://github.com/Ahairyoldserver/Messages/actions/workflows/messages.yml/badge.svg)](https://github.com/Ahairyoldserver/Messages/actions/workflows/messages.yml)
 This repository holds all messages for the network **ahairyoldserver.net**! <br>
 Each plugin has its own folder with a _.properties_ file for each language.
 
