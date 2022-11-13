@@ -113,6 +113,9 @@ jobs:
                 print('Message bundle validation succeeded!')
 
             
+            # Workflow information can be found here:
+            # https://github.com/jannekem/run-python-script-action
+            
             # An error could occur if:
             # 1. A .properties file is not encode with utf-8
             # 2. A defined plugin in the settings.yml does not exists (the folder) 
