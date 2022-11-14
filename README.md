@@ -1,6 +1,5 @@
 # Messages [![Validate Messages](https://github.com/Ahairyoldserver/Messages/actions/workflows/resource_bundle_validation.yml/badge.svg)](https://github.com/Ahairyoldserver/Messages/actions/workflows/resource_bundle_validation.yml)
-This repository holds all messages for the network **ahairyoldserver.net**! <br>
-Each plugin has its own folder with a _.properties_ file for each language.
+This repository holds all messages for the **ahairyoldserver.net** network!
 
 ## Files and Structure
 This repository holds all messages in all supported languages for our network. For each plugin, a folder is created 
@@ -51,6 +50,19 @@ contents/translators:
 6. The _Developer_ will review all new messages and will add feedback or a request for changing anything if required.
 7. The _Content_ maybe has to adjust some messages.
 8. The _Content_ can merge the changes when the developer has approved it.
+
+| Step | Developer                                                                                                                                                             | Content                                                                                             |
+|------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| 1    | The _Developer_ will raise an issue, which includes information about the **plugin, key, description, and placeholders** for all required messages in tabular format. |                                                                                                     |
+| 2    |                                                                                                                                                                       | The _Content_ will implement those messages following the conventions above.                        |
+| 3    |                                                                                                                                                                       | The _Content_ will keep the order of the placeholders for the english message.                      |
+| 4    |                                                                                                                                                                       | The _Content_ will ensure that the workflow is passing.                                             |
+| 5    |                                                                                                                                                                       | The _Content_ will add the plugin to the settings file, if it was not included before.              |
+| 6    |                                                                                                                                                                       | The _Content_ will assign the developer who raised this issue as a reviewer, as soon as he is done. |
+| 7    | The _Developer_ will review all changes and will add feedback or a request for changing anything if required.                                                         |                                                                                                     |
+| 8    |                                                                                                                                                                       | The _Content_ maybe has to adjust some messages.                                                    |
+| 9    | The _Developer_ will approve the merge request.                                                                                                                       |                                                                                                     |
+| 10   |                                                                                                                                                                       | The _Content_ will merge the changes.                                                               |
 
 ## ResourceBundle Workflow
 A workflow is integrated which validates the complete repository. That means, based on the defined plugins and languages 
