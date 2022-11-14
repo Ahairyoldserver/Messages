@@ -27,43 +27,20 @@ If you want to make use of placeholders, please follow these conventions:
 
 Furthermore, you can use all spigot color codes. If you want to have a preview of your message, you can use this [tool](https://minecraft.tools/en/motd.php).
 
-| Code    | Color                                           | &#124; | Code    | Color                                           |
-|---------|-------------------------------------------------|--------|---------|-------------------------------------------------|
-| §0      | <span style="color:black">Black</span>          | &#124; | §1      | <span style="color:darkblue">Dark Blue</span>   |
-| §2      | <span style="color:darkgreen">Dark Green</span> | &#124; | §3      | <span style="color:#009292">Dark Aqua</span>    |
-| §4      | <span style="color:darkred">Dark Red</span>     | &#124; | §5      | <span style="color:purple">Dark Purple</span>   |
-| §6      | <span style="color:gold">Gold</span>            | &#124; | §7      | <span style="color:gray">Gray</span>            |
-| §8      | <span style="color:darkgray">Dark Gray</span>   | &#124; | §9      | <span style="color:blue">Blue</span>            |
-| §a      | <span style="color:green">Green</span>          | &#124; | §b      | <span style="color:aqua">Aqua</span>            |
-| §c      | <span style="color:red">Red</span>              | &#124; | §d      | <span style="color:#C341C3">Light Purple</span> |
-| §e      | <span style="color:yellow">Yellow</span>        | &#124; | §f      | <span style="color:white">White</span>          |
-| ------- | -----------------                               | &#124; | ------- | ----------------                                |
-| §k      | Magic                                           | &#124; | §l      | **Bold**                                        |
-| §m      | <s>Strikethrough</s>                            | &#124; | §n      | <u>Underline</u>                                |
-| §o      | _Italic_                                        | &#124; | §r      | Reset                                           |
-
-<table>
-  <tr>
-    <th>Header 1</th>
-    <th>Header 1</th>
-    <th>Last</th>
-  </tr>
-<tr>
-    <td><span style="color:darkgreen">Dark Green</span></td>
-    <td>Second</td>
-    <td>Third</td>
-  </tr>
-  <tr style="background-color:blue">
-    <td>First</td>
-    <td>Second</td>
-    <td>Third</td>
-  </tr>
-  <tr style="background-color:green">
-    <td>Another</td>
-    <td>Thing</td>
-    <td>Here</td>
-  </tr>
-</table>
+| Code    | Color                                                                        | &#124; | Code    | Color                                                                    |
+|---------|------------------------------------------------------------------------------|--------|---------|--------------------------------------------------------------------------|
+| §0      | ![#black](https://placehold.co/15x15/black/black.png) Black                  | &#124; | §1      | ![#darkblue](https://placehold.co/15x15/darkblue/darkblue.png) Dark Blue |
+| §2      | ![#darkgreen](https://placehold.co/15x15/darkgreen/darkgreen.png) Dark Green | &#124; | §3      | ![#009292](https://placehold.co/15x15/009292/009292.png) Dark Aqua       |
+| §4      | ![#darkred](https://placehold.co/15x15/darkred/darkred.png) Dark Red         | &#124; | §5      | ![#darkpurple](https://placehold.co/15x15/purple/purple.png) Dark Purple |
+| §6      | ![#gold](https://placehold.co/15x15/gold/gold.png) Gold                      | &#124; | §7      | ![#gray](https://placehold.co/15x15/gray/gray.png) Gray                  |
+| §8      | ![#darkgray](https://placehold.co/15x15/darkgray/darkgray.png) Dark Gray     | &#124; | §9      | ![#blue](https://placehold.co/15x15/blue/blue.png) Blue                  |
+| §a      | ![#green](https://placehold.co/15x15/green/green.png) Green                  | &#124; | §b      | ![#aqua](https://placehold.co/15x15/aqua/aqua.png) Aqua                  |
+| §c      | ![#red](https://placehold.co/15x15/red/red.png) Red                          | &#124; | §d      | ![#C341C3](https://placehold.co/15x15/C341C3/C341C3.png) Light Purple    |
+| §e      | ![#yellow](https://placehold.co/15x15/yellow/yellow.png) Yellow              | &#124; | §f      | ![#white](https://placehold.co/15x15/white/white.png) White              |
+| ------- | -----------------                                                            | &#124; | ------- | ----------------                                                         |
+| §k      | Magic                                                                        | &#124; | §l      | **Bold**                                                                 |
+| §m      | <s>Strikethrough</s>                                                         | &#124; | §n      | <u>Underline</u>                                                         |
+| §o      | _Italic_                                                                     | &#124; | §r      | Reset                                                                    |
 
 ### Settings File
 This file specify which plugins are included in this repository and which languages are supported. 
