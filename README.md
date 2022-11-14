@@ -19,7 +19,7 @@ automation and reading from our MessageAPI works smoothly, please note the follo
 7. All entries following this format: `message_key=your message here`
 
 If you want to make use of placeholders, please follow these conventions:
-1. All placeholders start with `${` and ends with `}`.
+1. All placeholders start with `${` and end with `}`.
 2. You can specify your placeholder name inside those encapsulations.
 3. If you want to change your placeholder to a prefix placeholder use the syntax `${prefix.key}`, where `key` is an existing key in the [prefixes](https://github.com/Ahairyoldserver/Messages/blob/develop/prefixes.properties) file!
 4. If you are using a placeholder make sure, that the **exact same placeholder** is also included in the corresponding language files of this plugin.
