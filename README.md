@@ -25,9 +25,22 @@ If you want to make use of placeholders, please follow these conventions:
 4. If you are using a placeholder make sure, that the **exact same placeholder** is also included in the corresponding language files of this plugin.
 5. You can use unlimited placeholders in each message, as soon as you follow these conventions!
 
-Furthermore, you can use all spigot color codes. Please make sure, that you are using a **§** sign instead of a **&** sign. <br>
-If you want to have a preview of your message, you can use this [tool](https://minecraft.tools/en/motd.php). <br>
-[![Spigot ChatColors](https://user-images.githubusercontent.com/60903023/199811974-a41ce1de-04a1-400b-9f55-d90321dc7d6b.png)](https://www.spigotmc.org/resources/chatcolor-farbcodes-im-chat.64589/)
+Furthermore, you can use all spigot color codes. If you want to have a preview of your message, you can use this [tool](https://minecraft.tools/en/motd.php).
+
+| Code    | Color                                           | &#124; | Code    | Color                                           |
+|---------|-------------------------------------------------|--------|---------|-------------------------------------------------|
+| §0      | <span style="color:black">Black</span>          | &#124; | §1      | <span style="color:darkblue">Dark Blue</span>   |
+| §2      | <span style="color:darkgreen">Dark Green</span> | &#124; | §3      | <span style="color:#009292">Dark Aqua</span>    |
+| §4      | <span style="color:darkred">Dark Red</span>     | &#124; | §5      | <span style="color:purple">Dark Purple</span>   |
+| §6      | <span style="color:gold">Gold</span>            | &#124; | §7      | <span style="color:gray">Gray</span>            |
+| §8      | <span style="color:darkgray">Dark Gray</span>   | &#124; | §9      | <span style="color:blue">Blue</span>            |
+| §a      | <span style="color:green">Green</span>          | &#124; | §b      | <span style="color:aqua">Aqua</span>            |
+| §c      | <span style="color:red">Red</span>              | &#124; | §d      | <span style="color:#C341C3">Light Purple</span> |
+| §e      | <span style="color:yellow">Yellow</span>        | &#124; | §f      | <span style="color:white">White</span>          |
+| ------- | -----------------                               | &#124; | ------- | ----------------                                |
+| §k      | Magic                                           | &#124; | §l      | **Bold**                                        |
+| §m      | <s>Strikethrough</s>                            | &#124; | §n      | <u>Underline</u>                                |
+| §o      | _Italic_                                        | &#124; | §r      | Reset                                           |
 
 ### Settings File
 This file specify which plugins are included in this repository and which languages are supported. 
