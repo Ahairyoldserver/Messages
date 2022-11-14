@@ -25,7 +25,4 @@ jobs:
         with:
           script: |
             import os
-            print("Directory contents:")
-            for f in os.listdir():
-                print(f)
-#            os.system('resource_bundle_validation.py')
+            os.system('python resource_bundle_validation.py')

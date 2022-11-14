@@ -1,9 +1,9 @@
-import ResourceBundle
 import collections
-import yaml
-
-from os.path import isfile
 from os.path import isdir
+from os.path import isfile
+
+import ResourceBundle
+import yaml
 from yaml.loader import BaseLoader
 
 
