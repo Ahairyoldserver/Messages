@@ -2,14 +2,14 @@
 This repository holds all messages for the **ahairyoldserver.net** network!
 
 ## Files and Structure
-This repository holds all messages in all supported languages for our network. For each plugin, a folder is created 
-with its name, where the name is the exact plugin name. Each plugin needs to have a properties file for every supported
-languages. This will be validated by the workflow. In addition, there are some more files for configuration which will
-be described in the following subsections.
+This repository contains all messages in all supported languages for our network. For each plugin, a folder is created 
+with its name, where the name is the exact name of the plugin. Each plugin must have a properties file for each 
+supported language. This is checked by the workflow. In addition, there are some other files for configuration, 
+which are described in the following subsections.
 
 ### Language Files
-All language-files are properties files. This means, all entries are structured like a dictionary. To ensure that the 
-automation and the reading from our MessageAPI works fine, please follow the constraints below:
+All language files are property files. This means that all entries are structured like a dictionary. To ensure that 
+automation and reading from our MessageAPI works smoothly, please note the following restrictions:
 1. Naming convention of all language-files: `messages_languageCode_countryCode.properties`
 2. For each language specified in the [settings.yml](https://github.com/Ahairyoldserver/Messages/blob/develop/settings.yml), a language file needs to be created for each plugin.
 3. All language files are located in the corresponding plugin folder.
@@ -39,22 +39,20 @@ Furthermore, you can use all spigot color codes. If you want to have a preview o
 | §e      | ![#yellow](https://placehold.co/15x15/yellow/yellow.png) Yellow              | &#124; | §f      | ![#white](https://placehold.co/15x15/white/white.png) White              |
 | ------- | -----------------                                                            | &#124; | ------- | ----------------                                                         |
 | §k      | Magic                                                                        | &#124; | §l      | **Bold**                                                                 |
-| §m      | <s>Strikethrough</s>                                                         | &#124; | §n      | <ins>Underline</ins>                                                         |
+| §m      | <s>Strikethrough</s>                                                         | &#124; | §n      | <ins>Underline</ins>                                                     |
 | §o      | _Italic_                                                                     | &#124; | §r      | Reset                                                                    |
 
 ### Settings File
-This file specify which plugins are included in this repository and which languages are supported. 
-If you add a new plugin or language, **add it also** to this file. This is important for the automated validation of 
-the syntax of all files.
+This file specifies which plugins are included in this repository and which languages are supported. When you add a 
+new plugin or language, **add it to this file as well**. This is important for automatic validation of the syntax of all files.
 
 ### Prefixes File
-This file contains all pre-defined prefixes for the messages. Feel free to add new prefixes or adapt the current ones. 
-Please make sure, that you are **not** changing the existing keys! Otherwise, the existing messages that are using this 
-prefix will not be replaced correctly. Since they are losing the reference to the prefix.
+This file contains all predefined prefixes for the messages. You are welcome to add new prefixes or modify the existing 
+ones. Please make sure that you do **not** change the existing keys! Otherwise, the existing messages using this prefix 
+will not be replaced correctly. This is because they will lose the reference to the prefix.
 
 ## Work Sequence
-Please follow this sequence when you are going to change messages. This is a script between the developers and 
-contents/translators:
+Please follow this order if you want to update messages. This is a script between developers and content/translators:
 
 | Step | Developer                                                                                                                                                             | Content                                                                                             |
 |------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
@@ -70,8 +68,8 @@ contents/translators:
 | 10   | _Wait for their turn..._                                                                                                                                              | The _Content_ will merge the changes.                                                               |
 
 ## ResourceBundle Workflow
-A workflow is integrated which validates the complete repository. That means, based on the defined plugins and languages 
-in the settings file, it will iterate through all folders and files and validate the content of it. This workflow will 
-fail if one of the above mention points are not fulfilled. If that is the case, go to `Actions` and open the failed 
-workflow. When opening the log, you will see an error message with information where the validation failed. When all 
-problems are solved you are able to merge your changes.
+There is an integrated workflow that validates the entire repository. This means that based on the plugins and languages 
+defined in the settings file, it goes through all the folders and files and validates their contents. This workflow will 
+fail if any of the previously mentioned points are not met. If this is the case, go to `Actions` and open the failed 
+workflow. When you open the log, you will see an error message with information about where the validation failed. 
+When all issues are resolved, you can merge your changes.
