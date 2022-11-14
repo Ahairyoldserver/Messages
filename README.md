@@ -42,27 +42,19 @@ prefix will not be replaced correctly. Since they are losing the reference to th
 ## Work Sequence
 Please follow this sequence when you are going to change messages. This is a script between the developers and 
 contents/translators:
-1. The _Developer_ will raise an issue, which includes information about the **plugin, key, description, and placeholders** for all required messages in tabular format. 
-2. The _Content_ will implement those messages following the conventions above.
-3. The _Content_ will keep the order of the placeholders for the english message.
-4. The _Content_ will ensure that the workflow is passing. 
-5. The _Content_ will assign the developer who raised this issue as a reviewer, as soon as he is done.
-6. The _Developer_ will review all new messages and will add feedback or a request for changing anything if required.
-7. The _Content_ maybe has to adjust some messages.
-8. The _Content_ can merge the changes when the developer has approved it.
 
 | Step | Developer                                                                                                                                                             | Content                                                                                             |
 |------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
-| 1    | The _Developer_ will raise an issue, which includes information about the **plugin, key, description, and placeholders** for all required messages in tabular format. |                                                                                                     |
-| 2    |                                                                                                                                                                       | The _Content_ will implement those messages following the conventions above.                        |
-| 3    |                                                                                                                                                                       | The _Content_ will keep the order of the placeholders for the english message.                      |
-| 4    |                                                                                                                                                                       | The _Content_ will ensure that the workflow is passing.                                             |
-| 5    |                                                                                                                                                                       | The _Content_ will add the plugin to the settings file, if it was not included before.              |
-| 6    |                                                                                                                                                                       | The _Content_ will assign the developer who raised this issue as a reviewer, as soon as he is done. |
-| 7    | The _Developer_ will review all changes and will add feedback or a request for changing anything if required.                                                         |                                                                                                     |
-| 8    |                                                                                                                                                                       | The _Content_ maybe has to adjust some messages.                                                    |
-| 9    | The _Developer_ will approve the merge request.                                                                                                                       |                                                                                                     |
-| 10   |                                                                                                                                                                       | The _Content_ will merge the changes.                                                               |
+| 1    | The _Developer_ will raise an issue, which includes information about the **plugin, key, description, and placeholders** for all required messages in tabular format. | _Wait for their turn..._                                                                            |
+| 2    | _Wait for their turn..._                                                                                                                                              | The _Content_ will implement those messages following the conventions above.                        |
+| 3    | _Wait for their turn..._                                                                                                                                              | The _Content_ will keep the order of the placeholders for the english message.                      |
+| 4    | _Wait for their turn..._                                                                                                                                              | The _Content_ will ensure that the workflow is passing.                                             |
+| 5    | _Wait for their turn..._                                                                                                                                              | The _Content_ will add the plugin to the settings file, if it was not included before.              |
+| 6    | _Wait for their turn..._                                                                                                                                              | The _Content_ will assign the developer who raised this issue as a reviewer, as soon as he is done. |
+| 7    | The _Developer_ will review all changes and will add feedback or a request for changing anything if required.                                                         | _Wait for their turn..._                                                                            |
+| 8    | _Wait for their turn..._                                                                                                                                              | The _Content_ maybe has to adjust some messages.                                                    |
+| 9    | The _Developer_ will approve the merge request.                                                                                                                       | _Wait for their turn..._                                                                            |
+| 10   | _Wait for their turn..._                                                                                                                                              | The _Content_ will merge the changes.                                                               |
 
 ## ResourceBundle Workflow
 A workflow is integrated which validates the complete repository. That means, based on the defined plugins and languages 
