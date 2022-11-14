@@ -42,6 +42,29 @@ Furthermore, you can use all spigot color codes. If you want to have a preview o
 | §m      | <s>Strikethrough</s>                            | &#124; | §n      | <u>Underline</u>                                |
 | §o      | _Italic_                                        | &#124; | §r      | Reset                                           |
 
+<table>
+  <tr>
+    <th>Header 1</th>
+    <th>Header 1</th>
+    <th>Last</th>
+  </tr>
+<tr>
+    <td><span style="color:darkgreen">Dark Green</span></td>
+    <td>Second</td>
+    <td>Third</td>
+  </tr>
+  <tr style="background-color:blue">
+    <td>First</td>
+    <td>Second</td>
+    <td>Third</td>
+  </tr>
+  <tr style="background-color:green">
+    <td>Another</td>
+    <td>Thing</td>
+    <td>Here</td>
+  </tr>
+</table>
+
 ### Settings File
 This file specify which plugins are included in this repository and which languages are supported. 
 If you add a new plugin or language, **add it also** to this file. This is important for the automated validation of 
