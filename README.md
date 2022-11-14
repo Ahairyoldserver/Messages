@@ -39,7 +39,7 @@ Furthermore, you can use all spigot color codes. If you want to have a preview o
 | §e      | ![#yellow](https://placehold.co/15x15/yellow/yellow.png) Yellow              | &#124; | §f      | ![#white](https://placehold.co/15x15/white/white.png) White              |
 | ------- | -----------------                                                            | &#124; | ------- | ----------------                                                         |
 | §k      | Magic                                                                        | &#124; | §l      | **Bold**                                                                 |
-| §m      | <s>Strikethrough</s>                                                         | &#124; | §n      | <u>Underline</u>                                                         |
+| §m      | <s>Strikethrough</s>                                                         | &#124; | §n      | <ins>Underline</ins>                                                         |
 | §o      | _Italic_                                                                     | &#124; | §r      | Reset                                                                    |
 
 ### Settings File
