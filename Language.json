@@ -1,163 +1,7 @@
 {
-  "blocked_message": {
-    "eng": "Your message was not send becouse of a blocked word!",
-    "ger": "Die Nachricht wurde nicht gesendet da ein blockiertes Wort enhalten ist!"
-  },
-  "chat_disabled_writing_not_allowed": {
-    "eng": "§cEnable your chat to send messages!",
-    "ger": "§cAktiviere deinen Chat um Nachrichten zu versenden!"
-  },
-  "DPM": {
-    "eng": "§cThis player has disabled private messaging.",
-    "ger": "§cDieser Spieler hat private Nachrichten deaktiviert."
-  },
-  "flying_disabled": {
-    "eng": "Flight mode has been deactivated.",
-    "ger": "Der flugmodus wurde deaktiviert."
-  },
-  "flying_enabled": {
-    "eng": "Flight mode has been activated.",
-    "ger": "Der flugmodus wurde aktiviert."
-  },
-  "gamemode_changed_to": {
-    "eng": "Your gamemode has been changed to %gamemode%.",
-    "ger": "Dein Spielmodus wurde auf %gamemode% geändert."
-  },
-  "gamemode_changed_to_by": {
-    "eng": "Your gamemode has been changed to %gamemode% by %name%.",
-    "ger": "Dein Spielmodus wurde von %name% auf %gamemode% geändert."
-  },
-  "gamemode_does_not_exist": {
-    "eng": "The gamemode %gamemode% does not exist!",
-    "ger": "Der Spielmodus %gamemode% existiert nicht!"
-  },
-  "home_created": {
-    "eng": "Your home %name% was successfully created!",
-    "ger": "Dein Zuhause %name% wurde erfolgreich erstellt!"
-  },
-  "home_deleted": {
-    "eng": "Your home %name% was successfully deleted!",
-    "ger": "Dein Zuhause %name% wurde erfolgreich gelöscht!"
-  },
-  "home_limit_reached": {
-    "eng": "You have already placed the maximum amount of homes!",
-    "ger": "Du hast die maximale anzahl an homes bereits gesetzt!"
-  },
-  "home_list": {
-    "eng": "Your homes:",
-    "ger": "Deine homes:"
-  },
-  "home_not_available": {
-    "eng": "You have not placed a home yet!",
-    "ger": "Du hast noch kein Zuhause platziert!"
-  },
-  "illegal_name": {
-    "eng": "The name containes illegal characters!",
-    "ger": "Der von dir gewählte Namen enthält unerlaubte Zeichen!"
-  },
-  "invalid_number": {
-    "eng": "The specified value is invalid!",
-    "ger": "Der angegeben Wert ist unültig!"
-  },
-  "inventory_title_settings": {
-    "eng": "§d§lSettings",
-    "ger": "§d§lEinstellungen"
-  },
-  "inventory_title_settings_chat": {
-    "eng": "§d§lChat - settings",
-    "ger": "§d§lChat - Einstellungen"
-  },
-  "inventory_title_settings_language": {
-    "eng": "§d§lLanguage - settings",
-    "ger": "§d§lSprach - Einstellungen"
-  },
-  "item_lore_settings_chat_visibility": {
-    "eng": "§7Does the chat annoy you?\n§7Then just deactivate it.",
-    "ger": "§7Nervt dich der Chat?\n§7Deaktiviere ihn einfach."
-  },
-  "item_lore_settings_chat_filter": {
-    "eng": "§7Do swear words in chat bother you?\n§7Simply hide offensive messages.",
-    "ger": "§7Stören dich Schimpfworte im Chat?\n§7Blende anstößige Nachrichten einfach aus."
-  },
-  "item_lore_settings_chat_msg": {
-    "eng": "§7Do you want to have your peace?\n§7Just disable private messages.",
-    "ger": "§7Möchtest du deine Ruhe haben?\n§7Deaktiviere einfach private Nachrichten."
-  },
-  "item_lore_settings_language": {
-    "eng": "§7Chose your language\n\n§7available languages\n§e§l   • §eDeutsch\n§e§l   • §eEnglish",
-    "ger": "§7Wähle deine Sprache\n\n§7Verfügbare Sprachen\n§e§l   • §eDeutsch\n§e§l   • §eEnglish"
-  },
-  "item_title_activate": {
-    "eng": "§aenable",
-    "ger": "§aAktivieren"
-  },
-  "item_title_deactivate": {
-    "eng": "§cdisable",
-    "ger": "§cDeaktivieren"
-  },
-  "item_title_settings": {
-    "eng": "§d§lSettings",
-    "ger": "§d§lEinstellungen"
-  },
-  "item_title_settings_chat": {
-    "eng": "§d§lChat - settings",
-    "ger": "§d§lChat - Einstellungen"
-  },
-  "item_title_settings_language": {
-    "eng": "§d§lLanguage - settings",
-    "ger": "§d§lSprach - Einstellungen"
-  },
-  "item_title_settings_chat_visibility": {
-    "eng": "§e§l• §eChat - visibility",
-    "ger": "§e§l• §eChat - Sichtbarkeit"
-  },
-  "item_title_settings_chat_filter": {
-    "eng": "§e§l• §eChat - filter",
-    "ger": "§e§l• §eChat - Filter"
-  },
-  "item_title_settings_chat_msg": {
-    "eng": "§e§l• §eChat - private messages",
-    "ger": "§e§l• §eChat - privat Nachrichten"
-  },
-  "kick_player": {
-    "eng": "You have kicked %name% from the server!",
-    "ger": "Du hast den Spieler %name% vom Server geworfen!"
-  },
-  "kicked_all_players": {
-    "eng": "Kicked all players from the server!",
-    "ger": "Du hast alle Spieler vom Server gekickt!"
-  },
-  "location_dont_exist": {
-    "eng": "The specified location doesnt exist!",
-    "ger": "Der Standort %name% existiert nicht!"
-  },
-  "money_display": {
-    "eng": "You have %amount%G!",
-    "ger": "Du hast aktuell %amount%G!"
-  },
-  "money_display_other": {
-    "eng": "%name% has %amount%G!",
-    "ger": "%name% hat aktuell %amount%G!"
-  },
-  "money_payed": {
-    "eng": "You gave %name% %amount%G!",
-    "ger": "Du hast %name% %amount%G gegeben!"
-  },
-  "money_received": {
-    "eng": "You have received %amount%G!",
-    "ger": "Du hast %amount%G erhalten!"
-  },
-  "money_received_player": {
-    "eng": "You have received %amount%G from %name%!",
-    "ger": "Du hast %amount%G von %name% erhalten!"
-  },
   "msg_self": {
     "eng": "§cYou can't send msg to yourself.",
     "ger": "§cDu kannst keine msg an dich selbst versenden."
-  },
-  "money_top_list": {
-    "eng": "This is the Top List of Player Currency:",
-    "ger": "Das ist die Top-Liste der Spielerwährung:"
   },
   "not_allowed": {
     "eng": "Not allowed!",
@@ -166,14 +10,6 @@
   "not_enough_arguments": {
     "eng": "Not enough arguments used!",
     "ger": "Zu wenig Argumente angegeben!"
-  },
-  "not_enough_money": {
-    "eng": "You don't have enough to send %amount%G!",
-    "ger": "Du hast nicht genug um %amount%G zu senden!"
-  },
-  "not_enough_permissions": {
-    "eng": "Not enough permissions",
-    "ger": "Nicht genug Rechte"
   },
   "npc_created": {
     "eng": "The %name% NPC was created",
@@ -190,10 +26,6 @@
   "player_equal_target": {
     "eng": "§cYou cannot use this command by yourself!",
     "ger": "§cDu kannst dies nicht bei dir selber machen!"
-  },
-  "player_only_command": {
-    "eng": "This command can only be used by players!",
-    "ger": "Dieser Befehl ist nur für Spieler ausführbar!"
   },
   "spawn_created": {
     "eng": "Your home was successfully created!",
